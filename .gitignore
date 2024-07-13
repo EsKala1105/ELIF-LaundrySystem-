@@ -1,6 +1,6 @@
 # Ignorar directorio node_modules creado por npm/yarn
 node_modules/
-
+pnpm-lock.yaml
 # Ignorar archivos de dependencias generados por herramientas
 package-lock.json
 yarn.lock
